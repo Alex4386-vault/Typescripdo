@@ -4,3 +4,5 @@
 ## TODO
 * TBD
 
+## License
+None

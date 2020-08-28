@@ -1,8 +1,16 @@
 # 타입스크립도
-타입스크립도에 당도한것을 환영합니다.
+
 
 ## TODO
-* TBD
+* Make 3-star rating.
+* Unlock island designer app. (deps: get 3-star rating)
+* pay off debts
+* upgrade house to 4-room setup. (deps: pay off debts)
+
+## Completed Tasks
+* ~~Upgrade Nook's Cranny~~
+* ~~Get "able sisters"~~
+* ~~Create "orchards" with "foreign" fruits~~
 
 ## License
 None
